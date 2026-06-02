@@ -1,0 +1,178 @@
+/* Website Styles*/
+
+* {
+    font-size: 100%;
+    margin: 0;
+    line-height: 1;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+body {
+        background-color: #DDD0C1; /* Sets the background to light beige*/
+        color: #390C1E;
+        font-family: "IM Fell English SC", serif;
+        font-size: 40px;
+        
+
+
+}
+
+body {
+    background-image: url(images/chevron.png);
+        background-repeat: repeat;
+}
+
+
+h1, h2, h3 {
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+        h1 {
+    color:#E6A8B5;
+    font-size: 36px;
+    
+}
+
+        h2 {
+    font-size: 24px;
+    
+}
+
+        h3 {
+   font-size: 18px; 
+}
+        header {
+    background-color:#9F6848;
+    /* color; white; */ 
+}
+
+header,
+section,
+footer {
+    padding: 30px;
+}
+
+
+
+section{ 
+    background-color:#9F6848;
+}
+
+    p {
+
+}
+.middle-paragraph {
+    color:#514741;
+}
+
+    p {
+
+}
+.top-paragraph {
+    color: #854D65;
+}
+
+    p {
+
+}
+.first-paragraph {
+    color:#838799;
+}
+    
+
+    p {
+
+}
+.head-top-link {
+    color:#E6A8B5;
+}
+
+p {
+    line-height: 2;
+}
+
+h1 {
+    text-align: center;
+}
+
+header h1 {
+    text-align: center;
+}
+
+footer p {
+    font-size: 13px;
+}
+
+a {
+    color: #9C1425;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    margin: 15px 0;
+}
+
+ul, ol {
+    margin: 15px 0;
+}
+
+header {
+    border-bottom: 5px #CDC1BD;
+}
+
+section {
+    border: 1px solid gainsboro;
+    background-color: whitesmoke;
+    margin: 30px;
+    padding: 30px
+}
+
+
+img {
+    height: 424px;
+}
+
+h3 img {
+    height: 650;
+    width: 888;
+}
+
+.title {
+    font-size: 48px;
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.banner {
+    height: 350px;
+    background-image: url(images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+h6 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+.head-top-link {
+    font-size: 28px;
+}
+.first-paragraph {
+    font-size: 45px;
+    font-weight: bolder;
+}
